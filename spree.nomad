@@ -247,7 +247,7 @@ job "spree" {
 RDS_HOSTNAME="projectdb.crxcp6lem4bm.us-east-1.rds.amazonaws.com"
 RDS_DB_NAME="spreeDB"
 RDS_USERNAME="spree"
-RDS_PASSWORD="dbpassword"
+RDS_PASSWORD="null"
 DUMMY="1525069055"
        }
 
